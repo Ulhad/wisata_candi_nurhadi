@@ -4,6 +4,7 @@ import 'package:wisata_candi/screens/detail_screen.dart';
 import 'package:wisata_candi/screens/profile_screen.dart';
 import 'package:wisata_candi/screens/search_screen.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
